@@ -1285,6 +1285,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 15px;
   color: white;
   border-radius: 50px;
+  width: 200px;
   margin: auto;
   padding: 10px 40px;
 }
