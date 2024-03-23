@@ -461,7 +461,13 @@ body.mobile-nav-active #mobile-nav {
 body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
-
+/*-------------------------------------------------------------
+# achor 
+-------------------------------------------------------------*/
+a{
+  color: #e0072f;
+  text-decoration: none;
+}
 /*--------------------------------------------------------------
 # Intro Section
 --------------------------------------------------------------*/
@@ -469,6 +475,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: 100vh;
+  background: url(../img/clgbgv.gif) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
