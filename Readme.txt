@@ -5,3 +5,5 @@ Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-templat
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
 -----------------------------------------------------------------------------------
+
+adjust the image in break the query
