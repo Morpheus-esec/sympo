@@ -11,3 +11,4 @@ update video link
 video link update
 changed align of the text
 ai memethon change
+ai text padding change
