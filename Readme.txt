@@ -13,3 +13,4 @@ changed align of the text
 ai memethon change
 ai text padding change
 index page workshop spelling change
+faq toogle change
