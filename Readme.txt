@@ -9,3 +9,4 @@ Author URL: https://bootstrapmade.com
 adjust the image in break the query
 update video link
 video link update
+changed align of the text
