@@ -15,3 +15,4 @@ ai text padding change
 index page workshop spelling change
 faq toogle change
 I have changed to info table to VR Tour - By SK
+Resolved Typo Errors - By SK
