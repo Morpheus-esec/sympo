@@ -17,3 +17,4 @@ faq toogle change
 I have changed to info table to VR Tour - By SK
 Resolved Typo Errors - By SK
 Added Logo - By SK
+added a FAQ - By SK
