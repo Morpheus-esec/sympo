@@ -19,3 +19,5 @@ Resolved Typo Errors - By SK
 Added Logo - By SK
 
 added a FAQ - By SK
+for faq update
+
